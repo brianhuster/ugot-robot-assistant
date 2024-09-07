@@ -1,0 +1,8 @@
+SpeechRecognition
+gtts
+pygame
+google-generativeai
+flask
+flask_socketio
+eventlet
+websocket-client
